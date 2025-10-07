@@ -1,5 +1,0 @@
-# For the graphical interface
-# Tkinter is included in the standard Python library
-
-# For testing (optional)
-pytest>=6.0.0
